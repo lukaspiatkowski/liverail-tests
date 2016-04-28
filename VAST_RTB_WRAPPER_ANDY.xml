@@ -3,7 +3,7 @@
 <Wrapper>
 <AdSystem version="LR_DELIVERY_VERSION">LiveRail</AdSystem>
 <VASTAdTagURI>
-<![CDATA[ http://jiahuiwu.net/VAST_XML_ANDY5.xml ]]>
+<![CDATA[ https://raw.githubusercontent.com/lukaspiatkowski/liverail-tests/master/VAST_XML_ANDY5.xml ]]>
 </VASTAdTagURI>
 <Error>
 <![CDATA[
