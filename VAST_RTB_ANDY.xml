@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">
+  <Ad id = "12345" >
+    <InLine>
+      <AdSystem>VIDEOHUB11</AdSystem>
+      <AdTitle>F3103M2539</AdTitle>
+      <Description />
+      <Impression>http://tracking.dev.liverail.com/?THEIR_IMPRESSION=1/?new_tags=[LR_TAGS]?new_ss_test=[ss_TEST]</Impression>
+      <Creatives>
+        <Creative id = "21593874">
+          <Linear >
+            <Duration>00:00:09</Duration>
+            <MediaFiles>
+                <MediaFile delivery="progressive" bitrate="256" width="192" height="132" type="video/x-flv"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/lo.flv]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="256" width="192" height="144" type="video/x-ms-wmv"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/lo.wmv]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="400" width="320" height="240" type="video/mp4"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/lo.mp4]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="400" width="320" height="240" type="video/webm"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/lo.webm]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="512" width="192" height="132" type="video/x-flv"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/me.flv]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="512" width="192" height="144" type="video/x-ms-wmv"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/me.wmv]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="600" width="640" height="480" type="video/mp4"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/me.mp4]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="600" width="640" height="480" type="video/webm"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/me.webm]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="1024" width="192" height="144" type="video/mp4"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/hi.mp4]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="1024" width="192" height="144" type="video/webm"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/hi.webm]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="1024" width="192" height="132" type="video/x-flv"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/hi.flv]]></MediaFile>
+                <MediaFile delivery="progressive" bitrate="1024" width="192" height="144" type="video/x-ms-wmv"><![CDATA[http://cdn.liverail.com/adasset4-dev/1372/39580/113838/hi.wmv]]></MediaFile>  
+            </MediaFiles>
+            <TrackingEvents>
+             
+              <Tracking event="midpoint"></Tracking>
+              <Tracking event="thirdQuartile">http://tracking.dev.liverail.com/?THIRD_QURTILE=1</Tracking>
+              <Tracking event="thirdQuartile">http://newquart.com</Tracking>
+              
+              
+              <Tracking event="complete">http://tracking.dev.liverail.com/?COMPLETE=1</Tracking>
+              
+              <Tracking event="mute">http://tracking.dev.liverail.com/?MUTE=1</Tracking>
+              <Tracking event="unmute">http://tracking.dev.liverail.com/?UNMUTE=1</Tracking>
+              <Tracking event="pause">http://tracking.dev.liverail.com/?PAUSE=1</Tracking>
+              <Tracking event="resume">http://tracking.dev.liverail.com/?RESUME=1</Tracking>
+              <Tracking event="fullscreen">http://tracking.dev.liverail.com/?FULLSCREEN=1</Tracking>
+              <Tracking event="leaveFullscreen">http://tracking.dev.liverail.com/?LEAVEFULLSCREEN=1</Tracking>
+              <Tracking event="close">http://tracking.dev.liverail.com/?CLOSE=1</Tracking>
+              
+              
+              
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking></ClickTracking>
+            </VideoClicks>
+          </Linear>                           
+    	    
+        </Creative>
+      </Creatives>
+    <Extensions>      
+    <Extension type="LR-Pricing">
+	    <Price model = "CPM" currency="EUR" >50</Price>
+    </Extension>
+    
+        
+        <Extension type="DealID">
+        <DealID>36533</DealID>
+        </Extension>
+        
+        <Extension type="BuyerID">
+         <BuyerID>134155</BuyerID>
+        </Extension>
+        
+        <Extension type="CustomTrackingEvents">
+    	    <TrackingEvents>
+    		<Tracking event="fillForfeit">http://a.b.com/d/e/f </Tracking>
+    	    </TrackingEvents>
+        </Extension>
+         
+        
+      </Extensions>
+    </InLine>
+  </Ad>
+</VAST>
+
+

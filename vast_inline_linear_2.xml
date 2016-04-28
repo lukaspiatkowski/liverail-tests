@@ -1,0 +1,20 @@
+<VAST version="2.0">
+	<Ad id="345678">
+		<InLine>
+			<AdTitle>VAST 2.0 Instream Test</AdTitle>
+			<Description>VAST 2.0 Instream Test</Description>
+			<Creatives>
+				<Creative AdID="654321">
+					<Linear>
+						<MediaFiles>
+							<MediaFile type="video/mp4">
+								<![CDATA[
+								http://cdn.liverail.com/secured_vast/c545889b1cc79f6124e5c31b9a71dc58.mp4								]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>

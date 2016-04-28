@@ -1,0 +1,28 @@
+<VAST version="2.0">
+  <Ad id="123456">
+  <Wrapper>
+    <VASTAdTagURI>http://jiahuiwu.net/vast_inline_linear.xml</VASTAdTagURI>
+	<Creatives>
+		<Creative AdID="602833">
+			<Linear>
+				<TrackingEvents></TrackingEvents>
+			</Linear>
+		</Creative>
+		<Creative AdID="602833-Companion">
+			<CompanionAds>
+				<Companion width="300" height="250">
+					<StaticResource creativeType="image/jpeg">
+						http://jiahuiwu.net/5_104326_1.jpg
+					</StaticResource>
+					<TrackingEvents>
+						<Tracking event="creativeView">
+							http://myTrackingURL/wrapper/firstCompanionCreativeView
+						</Tracking>
+					</TrackingEvents>
+				</Companion>
+			</CompanionAds>
+		</Creative>
+	</Creatives>
+  </Wrapper>
+  </Ad>
+</VAST>

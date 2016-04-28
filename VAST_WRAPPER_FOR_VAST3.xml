@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">	<Ad id="">
+		<Wrapper>
+			<AdSystem version="LR_DELIVERY_VERSION">LiveRail</AdSystem>
+			<VASTAdTagURI><![CDATA[http://jiahuiwu.net/VAST3_NO_AD.xml]]></VASTAdTagURI>
+    		     		 <Error><![CDATA[http://t4.dev.liverail.com/?metric=error&erc=[ERRORCODE]&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=&redirect=]]></Error>			
+    		<Impression id="LR"><![CDATA[http://t4.dev.liverail.com/?metric=impression&cofl=0&flid=0&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=22&y=22&xy=3c80&z2=0]]></Impression>
+            <Impression id="QC"><![CDATA[http://pixel.quantserve.com/pixel/p-d05JkuPGiy-jY.gif?labels=,&r=5795]]></Impression>
+        	<Impression id="CS"><![CDATA[http://b.scorecardresearch.com/p?c1=1&c2=9864668&c3=20833&c4=&c5=09]]></Impression>
+			<Creatives>
+				<Creative sequence="1">
+            		<Linear>
+            			<VideoClicks>
+            				<ClickTracking><![CDATA[http://t4.dev.liverail.com/?metric=clickthru&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=&redirect=]]></ClickTracking>
+            			
+ 		
+
+						</VideoClicks>
+    			    	<TrackingEvents>
+							<Tracking event="firstQuartile"><![CDATA[http://t4.dev.liverail.com/?metric=view25&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[http://t4.dev.liverail.com/?metric=view50&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[http://t4.dev.liverail.com/?metric=view75&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="complete"><![CDATA[http://t4.dev.liverail.com/?metric=view100&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="mute"><![CDATA[http://t4.dev.liverail.com/?metric=mute&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="unmute"><![CDATA[http://t4.dev.liverail.com/?metric=unmute&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="pause"><![CDATA[http://t4.dev.liverail.com/?metric=pause&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="resume"><![CDATA[http://t4.dev.liverail.com/?metric=resume&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[http://t4.dev.liverail.com/?metric=fullscreen&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="close"><![CDATA[http://t4.dev.liverail.com/?metric=close&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							<Tracking event="acceptInvitation"><![CDATA[http://t4.dev.liverail.com/?metric=accept&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+
+    					</TrackingEvents>	
+    				</Linear>
+    			</Creative>
+    			
+    			<Creative sequence="1">
+    				<CompanionAds>
+        				<Companion width="" height="">
+							<TrackingEvents>
+								<Tracking event="creativeView"><![CDATA[http://t4.dev.liverail.com/?metric=companion&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+							</TrackingEvents>
+                            <CompanionClickThrough><![CDATA[http://t4.dev.liverail.com/?metric=cclickthru&pos=0&coid=50392&pid=20833&nid=20832&oid=&olid=&cid=&tpcid=&vid=&amid=&cc=default&pp=&vv=&tt=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=0&adt=0&did=&buid=&scen=34631_34632&url=&cb=5795.154.14.78.15.0&ver=1&w=&wy=&x=&y=&xy=]]></CompanionClickThrough>
+        				</Companion>
+    				</CompanionAds>
+    			</Creative>
+    		</Creatives>
+		</Wrapper>
+	</Ad>
+</VAST>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<VAST version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="oxml.xsd">
+	<Ad id="1">
+		<InLine>
+			<AdSystem version="1.0">Adap.tv</AdSystem>
+
+			<AdTitle>			</AdTitle>
+
+			<Impression>			</Impression>
+
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration><![CDATA[00:00:30]]></Duration>
+
+						<MediaFiles>
+							<MediaFile delivery="progressive" width="400" height="300" type="application/x-shockwave-flash" apiFramework="VPAID"><![CDATA[http://redir.adap.tv/redir/client/VPAIDClient.swf?adTagUrl=http%3A%2F%2Fads.adap.tv%2Faym%2Fad%3Fa_id%3D468782%2648%3D0%261d%3D%265c%3Dadaptvliverailmarketplace%2665%3Dpreroll%26eb%3D2364%268f%3D530%2641%3D340%2686%3D%2680%3D2223184430884626275%26f8%3DTA9d1af90e-edc8-11e4-bea6-00163e5bbdb0%2677%3D505190546%26d6%3D479d3cfa-a69a-4344-86a5-da55ae0dbd5a%2683%3D%26bf%3D0%2674%3Dlr%26ed%3D%26d8%3Dip-10-49-143-249%26d7%3D%26c0%3D%26c4%3D0%26c5%3D1%2691%3DONLINE_VIDEO%2645%3D204.147.94.70%26ee%3DWindows%2BNT%261b%3D%2690%3D%2685%3D%2681%3D%2684%3D%2621%3D%268e%3D-1%26f0%3D-1%2668%3D3%26b5%3D-1%26f3%3D%26f1%3D%26f2%3D%26af%3D%26f7%3D9%265%3D268306%26adName%3DMSN%2BWest%2BCMR_LR_4%252F30%252F2015%2B%25E2%2580%2593%2B6%252F30%252F2015%26campaignName%3DAdap.tv%2BLocal%2BQ2%2618%3D68520%264b%3D468782%252C268306%265b%3D9397%262e%3Dzone.msn.com%262f%3D%2630%3Dmsn.com%2631%3D%2632%3D1%26fd%3D%2614%3D468782%262%3D%2637%3D1396092%264f%3D188%2699%3D%26eb%3D2364%26ea%3D211%26a.ma%3D%2628%3DqUsI3M4M68M_%26a8%3DoOt0lqLFswM_%26e5%3DoOt0lqLFswM_%266c%3DG%252F1cd8HSICTSDB0fmIOGQfNBv%252FOgA%252FqIbkXuVC4-Uq8FRJIwrkDcIZyGgp-joPtH%2650%3DZX4madbHHCc_%2651%3DtOOhqVpKiIKzEXyKyh4SWr3aX09g7Q3-%2652%3DtOOhqVpKiIKzEXyKyh4SWr3aX09g7Q3-%26ae%3D0%2666%3D%26e3%3D1%26ec%3D1%26a.pub_id%3D26018%26a.skip%3D0%26f6%3DiCSArrpvL%252FM_%2625%3D240929%2653%3DZX4madbHHCc_%262c%3DC-nYv9dsPR4_%26excOriginated%3D1%26a.cv%3D1%26lr_mbr%3D$WINNING_PRICE%26auction_currency%3DUSD&companionId=&cpmPassback=&placementId=&orgId=&injectCompanionDummy=&pauseOnClick=&d.vw=&d.app=]]></MediaFile>
+						<MediaFile>
+							<![CDATA[http://playtime.tubemogul.com/ad_promoted_videos/6394325_126IPOGGFZtush2tUgAt_1438269655.mp4]]>
+						</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+
+				<Creative>
+					<CompanionAds>
+						<Companion width="300" height="250">
+							<HTMLResource><![CDATA[<div id="adaptvCompanion300x250" style="display:none;"></div>]]></HTMLResource>
+						</Companion>
+
+						<Companion width="300" height="60">
+							<HTMLResource><![CDATA[<div id="adaptvCompanion300x60" style="display:none;"></div>]]></HTMLResource>
+						</Companion>
+
+						<Companion width="300" height="100">
+							<HTMLResource><![CDATA[<div id="adaptvCompanion300x100" style="display:none;"></div>]]></HTMLResource>
+						</Companion>
+
+						<Companion width="468" height="60">
+							<HTMLResource><![CDATA[<div id="adaptvCompanion468x60" style="display:none;"></div>]]></HTMLResource>
+						</Companion>
+
+						<Companion width="728" height="90">
+							<HTMLResource><![CDATA[<div id="adaptvCompanion728x90" style="display:none;"></div>]]></HTMLResource>
+						</Companion>
+					</CompanionAds>
+				</Creative>
+			</Creatives>
+
+			<Extensions>
+				<Extension type="LR-Pricing">
+					<Price model="CPM" currency="USD" source="MyDSP"><![CDATA[40.00]]></Price>
+				</Extension>
+
+				<Extension type="DealID">
+					<DealID><![CDATA[33231]]></DealID>
+				</Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>

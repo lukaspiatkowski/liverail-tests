@@ -1,0 +1,32 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad>
+<InLine>
+<AdSystem version="2.0">Ad Server</AdSystem>
+<AdTitle>In-Stream Video</AdTitle>
+<Description>A test creative with a description.</Description>
+<Impression>
+<![CDATA[ http://adserver.com/macro_wrapper=${AUCTION_PRICE} ]]>
+</Impression>
+<Error>
+<![CDATA[ http://error_from_adtag_wrapper_andy5 ]]>
+</Error>
+<Creatives>
+<Creative sequence="1" AdID="">
+<Linear>
+<Duration>00:00:58</Duration>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ http://adserver.com/click ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/x-flv" bitrate="457" width="300" height="225">
+<![CDATA[ http://adserver.com/video.flv ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
